@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "restart.include.pagehelper",
+      "type": "java.lang.String",
+      "description": "Description for restart.include.pagehelper."
+  }
+] }
