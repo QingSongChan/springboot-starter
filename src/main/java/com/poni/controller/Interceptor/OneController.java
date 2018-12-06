@@ -21,7 +21,7 @@ public class OneController {
 
     @RequestMapping("/index")
     public String index(ModelMap map) {
-        map.addAttribute("name", "imooc22");
+        map.addAttribute("name", "imooc2266");
         return "thymeleaf/index1";
     }
 
